@@ -6,7 +6,8 @@ Status: Desenvolvimento ✅
 
 ## Imagem
 <img src="">
-## Weather 
+### Weather -
+
 Sol, com chuva de manhã e diminuição de nuvens à tarde. 
 Confira Confira o Clima todas as previsões de temperaturas ao redor do mundo.
 
